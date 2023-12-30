@@ -63,33 +63,6 @@ Collections like ArrayList are used for managing lists of products, orders, and 
 - User-friendly interface for navigating the system.
 - Error handling for user inputs.
 
-## Getting Started
-
-This section will guide you through the initial setup and execution of the Java E-Commerce Console Application.
-
-### Prerequisites:
-
-- Java (JDK) installed on your machine. Ensure you have the latest version to avoid compatibility issues.
-
-### Clone the Repository:
-To get a copy of the project, clone the repository from GitHub using the following command in Bash:
-
-`bash`
-
-```
-git clone https://github.com/your-username/inventory-management-system.git
-```
-
-### Compile and Run:
-Navigate to the project directory and compile the Java files, then run the application:
-
-`Bash`
-
-```
-cd java-e-commerce-console-application
-javac Main.java
-java Main
-```
 
 ## Usage
 
