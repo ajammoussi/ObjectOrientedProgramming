@@ -12,7 +12,6 @@ The system incorporates Object-Oriented Programming (OOP) principles to ensure m
 
 - Design Decisions
 - Features
-- Getting Started
 - Usage
 - Conclusion
 
@@ -81,29 +80,6 @@ View Lending History: Admins can view the lending history of the library.
 - **Load Books from Supplier**: Admins can add books to the library inventory from the supplier.
 - **View Library Inventory**: Admins can view the current inventory of books in the library.
 
-## Getting Started
-
-#### 1) Prerequisites:
-
-Java installed on your machine
-
-#### 2) Clone the Repository:
-
-`Bash`
-
-```
-git clone https://github.com/your-username/online-library.git
-```
-
-#### 3) Compile and Run:
-
-Bash
-
-```
-cd online-library
-javac Main.java
-java Main
-```
 
 ## Usage
 
